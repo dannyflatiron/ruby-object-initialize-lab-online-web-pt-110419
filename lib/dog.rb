@@ -12,6 +12,3 @@ class Dog
     @breed
   end
 end
-
-lassie = Dog.new
-lassie.breed = "Pug"
